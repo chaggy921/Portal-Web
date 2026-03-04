@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Portal de Descargas</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 20px auto;
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        a {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Mi Portal de Recursos</h1>
+
+    <div class="card">
+        <h3>Imagen PNG Fondo Transparente</h3>
+        <p>Recurso gráfico gratis</p>
+        <a href="https://drive.google.com/file/d/1n3m9Tx-uVsf76gZ6Zexcw_gGjS_EleB3/view?usp=drivesdk" target="_blank">Descargar</a>
+    </div>
+
+    <div class="card">
+        <h3>PDF Guía Gratis</h3>
+        <p>Documento descargable</p>
+        <a href="https://drive.google.com/file/d/1n3m9Tx-uVsf76gZ6Zexcw_gGjS_EleB3/view?usp=drivesdk" target="_blank">Descargar</a>
+    </div>
+
+</body>
+</html>
